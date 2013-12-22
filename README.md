@@ -1,7 +1,8 @@
 Hit-Counter
 ===========
 
-A library that counts link visits by viewers, that is locked to a specific IP address.
+A PHP library that counts unique views for specific user-locked reference links.
+
 
 ```
 // +---------------------------------------------------------------------------
